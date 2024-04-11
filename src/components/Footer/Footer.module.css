@@ -1,0 +1,13 @@
+.footer{
+    color: #666666;
+    background-color: #d9d9d9;
+    width: 100%;
+    height: 50px;
+
+    display: flex;
+    align-items: center;        /*alinhamento horizontal*/
+    justify-content: center;    /*alinhamento vertical*/
+
+    position:fixed;
+    bottom: 0;
+}
